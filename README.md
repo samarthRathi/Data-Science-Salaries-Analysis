@@ -1,4 +1,5 @@
-EDA on the dataset ----> eda_salaries.ipynb. To see the output of the graphs, it can be seen at this link:
+EDA on the dataset ----> eda_salaries.ipynb. To see the output of the graphs, 
+download the html file and open with Chrome. Html file can be found at this link:
 https://drive.google.com/file/d/11AyZFORDWckDuRkeyGRAKcwre2sK6o6k/view?usp=sharing
 
 Prediction with pycrate -----> Job Salaries Prediction with Pycrate
